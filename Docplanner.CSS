@@ -1,0 +1,9 @@
+.logo{
+    width: 268px;
+    height: 33px;
+}
+.img_center{
+    width: 40px;
+    height: 33px;
+    align-self:center;
+}
